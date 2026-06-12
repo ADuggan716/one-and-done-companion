@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-08T01:21:11.828Z",
+  "fetchedAt": "2026-06-12T00:28:14.427Z",
   "sourceNotes": [
-    "PGA TOUR FedExCup: 210 golfer records loaded",
+    "PGA TOUR FedExCup: 211 golfer records loaded",
     "PGA TOUR Official Money: 207 golfer records loaded",
     "OWGR: 100 golfer records loaded"
   ],
@@ -13,7 +13,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 2711,
+      "fedexPoints": 2811,
       "seasonEarnings": 12043693,
       "worldRank": 1,
       "historicalStrength": 0.80396
@@ -25,7 +25,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1503,
+      "fedexPoints": 1603,
       "seasonEarnings": 7995825,
       "worldRank": 2,
       "historicalStrength": 0.489815
@@ -37,7 +37,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 2541,
+      "fedexPoints": 2556,
       "seasonEarnings": 11978860,
       "worldRank": 3,
       "historicalStrength": 0.360645
@@ -49,7 +49,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 2494,
+      "fedexPoints": 2517,
       "seasonEarnings": 11059188,
       "worldRank": 4,
       "historicalStrength": 0.310855
@@ -61,7 +61,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1344,
+      "fedexPoints": 1388,
       "seasonEarnings": 4962017,
       "worldRank": 5,
       "historicalStrength": 0.288145
@@ -73,7 +73,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1080,
+      "fedexPoints": 1180,
       "seasonEarnings": 4292994,
       "worldRank": 6,
       "historicalStrength": 0.26264
@@ -97,7 +97,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1115,
+      "fedexPoints": 1428,
       "seasonEarnings": 4487743,
       "worldRank": 8,
       "historicalStrength": 0.259165
@@ -109,7 +109,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1051,
+      "fedexPoints": 1151,
       "seasonEarnings": 4021310,
       "worldRank": 9,
       "historicalStrength": 0.24469
@@ -121,7 +121,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1267,
+      "fedexPoints": 1299,
       "seasonEarnings": 4986038,
       "worldRank": 10,
       "historicalStrength": 0.23397
@@ -133,7 +133,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1552,
+      "fedexPoints": 1589,
       "seasonEarnings": 5629752,
       "worldRank": 11,
       "historicalStrength": 0.23476
@@ -153,7 +153,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 917,
+      "fedexPoints": 972,
       "seasonEarnings": 4480668,
       "worldRank": 13,
       "historicalStrength": 0.21402000000000002
@@ -177,7 +177,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1677,
+      "fedexPoints": 1698,
       "seasonEarnings": 5591675,
       "worldRank": 15,
       "historicalStrength": 0.214005
@@ -189,7 +189,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 753,
+      "fedexPoints": 808,
       "seasonEarnings": 2790860,
       "worldRank": 16,
       "historicalStrength": 0.212705
@@ -213,7 +213,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1064,
+      "fedexPoints": 1084,
       "seasonEarnings": 4127137,
       "worldRank": 18,
       "historicalStrength": 0.19573000000000002
@@ -225,7 +225,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1704,
+      "fedexPoints": 1844,
       "seasonEarnings": 6575361,
       "worldRank": 19,
       "historicalStrength": 0.19896
@@ -237,7 +237,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 900,
+      "fedexPoints": 917,
       "seasonEarnings": 3306169,
       "worldRank": 20,
       "historicalStrength": 0.174955
@@ -249,7 +249,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 541,
+      "fedexPoints": 716,
       "seasonEarnings": 2550915,
       "worldRank": 21,
       "historicalStrength": 0.185765
@@ -269,7 +269,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 689,
+      "fedexPoints": 756,
       "seasonEarnings": 2572387,
       "worldRank": 23,
       "historicalStrength": 0.17756
@@ -281,7 +281,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1512,
+      "fedexPoints": 1537,
       "seasonEarnings": 6935950,
       "worldRank": 24,
       "historicalStrength": 0.17191
@@ -293,7 +293,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1109,
+      "fedexPoints": 1359,
       "seasonEarnings": 5790077,
       "worldRank": 25,
       "historicalStrength": 0.17531000000000002
@@ -341,7 +341,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 1005,
+      "fedexPoints": 1049,
       "seasonEarnings": 4295329,
       "worldRank": 30,
       "historicalStrength": 0.15095
@@ -377,7 +377,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 692,
+      "fedexPoints": 760,
       "seasonEarnings": 2889708,
       "worldRank": 33,
       "historicalStrength": 0.146555
@@ -389,7 +389,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 763,
+      "fedexPoints": 1076,
       "seasonEarnings": 3435683,
       "worldRank": 34,
       "historicalStrength": 0.15694999999999998
@@ -401,7 +401,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 576,
+      "fedexPoints": 716,
       "seasonEarnings": 2776911,
       "worldRank": 35,
       "historicalStrength": 0.14584999999999998
@@ -413,7 +413,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 821,
+      "fedexPoints": 1221,
       "seasonEarnings": 5094268,
       "worldRank": 36,
       "historicalStrength": 0.177
@@ -425,7 +425,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 301,
+      "fedexPoints": 356,
       "seasonEarnings": 1496625,
       "worldRank": 37,
       "historicalStrength": 0.13816
@@ -473,7 +473,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 526,
+      "fedexPoints": 570,
       "seasonEarnings": 2098516,
       "worldRank": 41,
       "historicalStrength": 0.12426
@@ -497,7 +497,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 927,
+      "fedexPoints": 950,
       "seasonEarnings": 3463422,
       "worldRank": 43,
       "historicalStrength": 0.11639999999999999
@@ -521,7 +521,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 748,
+      "fedexPoints": 1098,
       "seasonEarnings": 4244686,
       "worldRank": 45,
       "historicalStrength": 0.14147
@@ -545,7 +545,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 493,
+      "fedexPoints": 506,
       "seasonEarnings": 1806067,
       "worldRank": 47,
       "historicalStrength": 0.111365
@@ -577,7 +577,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 951,
+      "fedexPoints": 1051,
       "seasonEarnings": 3384107,
       "worldRank": 50,
       "historicalStrength": 0.110855
@@ -609,7 +609,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 309,
+      "fedexPoints": 320,
       "seasonEarnings": 1288080,
       "worldRank": 53,
       "historicalStrength": 0.10125999999999999
@@ -669,7 +669,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 402,
+      "fedexPoints": 439,
       "seasonEarnings": 1651645,
       "worldRank": 58,
       "historicalStrength": 0.09504
@@ -681,7 +681,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 755,
+      "fedexPoints": 767,
       "seasonEarnings": 2824869,
       "worldRank": 59,
       "historicalStrength": 0.09364
@@ -701,7 +701,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 539,
+      "fedexPoints": 557,
       "seasonEarnings": 2010472,
       "worldRank": 60,
       "historicalStrength": 0.093125
@@ -737,7 +737,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 570,
+      "fedexPoints": 602,
       "seasonEarnings": 2057025,
       "worldRank": 64,
       "historicalStrength": 0.08684
@@ -749,7 +749,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 476,
+      "fedexPoints": 520,
       "seasonEarnings": 1818542,
       "worldRank": 65,
       "historicalStrength": 0.086085
@@ -793,7 +793,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 593,
+      "fedexPoints": 793,
       "seasonEarnings": 2590757,
       "worldRank": 69,
       "historicalStrength": 0.09070500000000001
@@ -821,7 +821,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 495,
+      "fedexPoints": 524,
       "seasonEarnings": 1681546,
       "worldRank": 72,
       "historicalStrength": 0.08193500000000001
@@ -893,7 +893,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 581,
+      "fedexPoints": 594,
       "seasonEarnings": 2252566,
       "worldRank": 79,
       "historicalStrength": 0.076405
@@ -925,7 +925,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 703,
+      "fedexPoints": 732,
       "seasonEarnings": 2572221,
       "worldRank": 82,
       "historicalStrength": 0.074685
@@ -985,7 +985,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 867,
+      "fedexPoints": 1117,
       "seasonEarnings": 3586943,
       "worldRank": 88,
       "historicalStrength": 0.08113000000000001
@@ -1029,7 +1029,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 231,
+      "fedexPoints": 249,
       "seasonEarnings": 951419,
       "worldRank": 92,
       "historicalStrength": 0.068745
@@ -1053,7 +1053,7 @@
         "PGA TOUR Official Money",
         "OWGR"
       ],
-      "fedexPoints": 181,
+      "fedexPoints": 881,
       "seasonEarnings": 4609788,
       "worldRank": 94,
       "historicalStrength": 0.13806000000000002
@@ -1208,6 +1208,13 @@
       "seasonEarnings": 454251
     },
     {
+      "golfer": "Ben James",
+      "sourceRefs": [
+        "PGA TOUR FedExCup"
+      ],
+      "fedexPoints": 0
+    },
+    {
       "golfer": "Ben Kohles",
       "sourceRefs": [
         "PGA TOUR FedExCup",
@@ -1249,7 +1256,7 @@
         "PGA TOUR FedExCup",
         "PGA TOUR Official Money"
       ],
-      "fedexPoints": 389,
+      "fedexPoints": 412,
       "seasonEarnings": 1053204
     },
     {
@@ -1465,7 +1472,7 @@
         "PGA TOUR FedExCup",
         "PGA TOUR Official Money"
       ],
-      "fedexPoints": 206,
+      "fedexPoints": 232,
       "seasonEarnings": 825304
     },
     {
@@ -1780,7 +1787,7 @@
         "PGA TOUR FedExCup",
         "PGA TOUR Official Money"
       ],
-      "fedexPoints": 167,
+      "fedexPoints": 182,
       "seasonEarnings": 759553
     },
     {
@@ -1816,7 +1823,7 @@
         "PGA TOUR FedExCup",
         "PGA TOUR Official Money"
       ],
-      "fedexPoints": 368,
+      "fedexPoints": 383,
       "seasonEarnings": 1185113
     },
     {
@@ -1861,7 +1868,7 @@
         "PGA TOUR FedExCup",
         "PGA TOUR Official Money"
       ],
-      "fedexPoints": 71,
+      "fedexPoints": 115,
       "seasonEarnings": 372604
     },
     {
@@ -1915,7 +1922,7 @@
         "PGA TOUR FedExCup",
         "PGA TOUR Official Money"
       ],
-      "fedexPoints": 800,
+      "fedexPoints": 819,
       "seasonEarnings": 2955904
     },
     {
@@ -2104,7 +2111,7 @@
         "PGA TOUR FedExCup",
         "PGA TOUR Official Money"
       ],
-      "fedexPoints": 631,
+      "fedexPoints": 651,
       "seasonEarnings": 2267877
     },
     {
@@ -2140,7 +2147,7 @@
         "PGA TOUR FedExCup",
         "PGA TOUR Official Money"
       ],
-      "fedexPoints": 385,
+      "fedexPoints": 397,
       "seasonEarnings": 1503561
     },
     {
@@ -2158,7 +2165,7 @@
         "PGA TOUR FedExCup",
         "PGA TOUR Official Money"
       ],
-      "fedexPoints": 348,
+      "fedexPoints": 381,
       "seasonEarnings": 1478372
     },
     {
