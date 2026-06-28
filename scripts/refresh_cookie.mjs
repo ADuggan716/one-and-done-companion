@@ -67,8 +67,14 @@ async function main() {
   const browser = await chromium.launch({
     headless: true,
     executablePath,
-    // --no-sandbox is required when running as root or in restricted Linux envs (Pi, CI, etc.)
-    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-gpu",                // required for headless on Pi (no GPU)
+      "--disable-dev-shm-usage",      // Pi has tiny /dev/shm (64MB) — use /tmp instead
+      "--disable-software-rasterizer",
+      "--single-process",             // reduces memory pressure on Pi
+    ],
   });
   const context = await browser.newContext({
     userAgent:
