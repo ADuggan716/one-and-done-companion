@@ -81,14 +81,19 @@ async function main() {
   try {
     console.log("Navigating to Splash Sports login page...");
     await page.goto("https://sm.app.splashsports.com/sign-in", {
-      waitUntil: "networkidle",
+      waitUntil: "domcontentloaded",
       timeout: 30000,
     });
 
-    // Fill email field
+    // Wait for any input to appear (SPA may render after domcontentloaded)
+    await page.waitForSelector("input", { timeout: 30000 });
+
+    // Small pause to let the SPA fully render all fields
+    await page.waitForTimeout(2000);
+
+    // Try to find the email field — SPAs sometimes use generic input[type="text"]
     const emailSelector =
-      'input[type="email"], input[name="email"], input[placeholder*="email" i]';
-    await page.waitForSelector(emailSelector, { timeout: 10000 });
+      'input[type="email"], input[name="email"], input[type="text"], input[placeholder*="email" i]';
     await page.fill(emailSelector, email);
 
     // Fill password field
